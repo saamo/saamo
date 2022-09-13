@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saamo.
 - 👀 I’m interested in backend programming.
-- 🌱 I’m currently learning [Go](https://go.dev), [AWS](https://aws.amazon.com) and [Serverless](https://www.serverless.com).
+- 🌱 I’m currently improving my skills in [TypeScript](https://www.typescriptlang.org)/[Go](https://go.dev) and cloud development on [AWS](https://aws.amazon.com).
 - 💞️ I’m looking to collaborate on opensource projects dealing with secure browsing and messaging.
 <!--- 📫 How to reach me: `echo "hello" > /dev/null`--->
 
